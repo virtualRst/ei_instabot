@@ -1,6 +1,7 @@
 {
     "user-instagram":{
-        "insta-id":"yes",
-        "insta-pass":"password"
+        "insta-id":"Your_Instagram_ID",
+        "insta-pass":"Your_Instagram_Pass",
+        "headless-browser":true
     }
 }
